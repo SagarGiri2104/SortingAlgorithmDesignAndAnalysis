@@ -1,5 +1,4 @@
-# Sagar Naresh Giri
-## 1001746582
+# Design and Analysis of Sorting Algorithm
 # Project Implementation
 ## 1. Pre-requisites:
 	IDE: SpringToolSuite4 must be downloaded and installed.
